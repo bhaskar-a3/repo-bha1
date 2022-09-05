@@ -1,5 +1,9 @@
-class hello()
+class hello 
 {
-	main()
-		print("Hell world");
+	public static void main() 
+	{
+	sys.out.println("Hello")
+	}
 }
+
+
